@@ -7,21 +7,21 @@
 ## Axios
 #### Installation Command
 * Using yarn
-$ yarn add axios
+$ `yarn add axios`
 * Using npm
-$ npm install axios
+$ `npm install axios`
 
 
 ## Toastify
 #### Installation Command
 * Using yarn
-$ yarn add react-toastify
+$ `yarn add react-toastify`
 * Using npm
-$ npm install --save react-toastify
+$ `npm install --save react-toastify`
 
 ## Sentry {Optional}
 #### Installation Command
 * Using yarn
-$ yarn add @sentry/browser @sentry/tracing
+$ `yarn add @sentry/browser @sentry/tracing`
 * Using npm
-$ npm install --save @sentry/browser @sentry/tracing
+$ `npm install --save @sentry/browser @sentry/tracing`
